@@ -1,0 +1,18 @@
+c:\users\batuhan kapancı\documents\visual studio 2015\Projects\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe.config
+C:\Users\Batuhan Kapancı\Documents\Visual Studio 2015\Projects\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe
+C:\Users\Batuhan Kapancı\Documents\Visual Studio 2015\Projects\EmreBahce\EmreBahce\bin\Debug\EmreBahce.pdb
+C:\Users\Batuhan Kapancı\Documents\Visual Studio 2015\Projects\EmreBahce\EmreBahce\obj\Debug\EmreBahce.exe
+C:\Users\Batuhan Kapancı\Documents\Visual Studio 2015\Projects\EmreBahce\EmreBahce\obj\Debug\EmreBahce.pdb
+C:\Users\Batuhan Kapancı\Documents\Visual Studio 2015\Projects\EmreBahce\EmreBahce\obj\Debug\EmreBahce.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe.config
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\bin\Debug\EmreBahce.pdb
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\obj\Debug\EmreBahce.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\obj\Debug\EmreBahce.exe
+C:\Users\Emre\Desktop\EmreBahce\EmreBahce\EmreBahce\obj\Debug\EmreBahce.pdb
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe.config
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\bin\Debug\EmreBahce.exe
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\bin\Debug\EmreBahce.pdb
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\obj\Debug\EmreBahce.csprojAssemblyReference.cache
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\obj\Debug\EmreBahce.exe
+D:\Programlama ödevi\Emre Bahce   192211064\Emre Bahce   192211064\EmreBahce\EmreBahce\obj\Debug\EmreBahce.pdb
